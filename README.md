@@ -9,3 +9,9 @@ This project implements a **Hidden Markov Model (HMM)** to recognize spoken digi
 - **Digit Recognition:** Accurately identifies spoken digits from 'Zero' to 'Nine'.
 - **High Accuracy:** Achieves over 90% accuracy in recognizing digits.
 - **Speech Processing:** Utilizes HMM to model and decode speech signals for digit recognition.
+
+## Course Information
+
+- **Project Name:** Human Speech Digit Recognition
+- **Course:** CS566 : Speech Processing 
+- **Instructor:** Dr. Pradip K. Das, Professor, Dept. of CSE, IIT Guwahati
